@@ -1,0 +1,2 @@
+# -PATTERNS
+learning patterns 
